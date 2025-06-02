@@ -1,0 +1,9 @@
+import { Text, View } from "react-native";
+
+export default function PermissionsScreen() {
+    return (
+        <View>
+            <Text>Permissions</Text>
+        </View>
+    )
+}
